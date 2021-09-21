@@ -5,4 +5,4 @@
 - Reference: 
     1. [Privacy-Preserving Deep Learning](https://www.cs.cornell.edu/~shmat/shmat_ccs15.pdf)
     2. [Privacy-Preserving Deep Learning via Additively Homomorphic Encryption](https://ieeexplore.ieee.org/document/8241854)
-- Exchange Protocol: 參考 "ExchangeProtocol.ppt" 這份檔案 
+- Exchange Protocol: 參考 "[ExchangeProtocol.ppt](https://github.com/bill130287/Federated-Learning-With-Paillier-Encryption/blob/main/ExchangeProtocol.pptx)" 這份檔案 
